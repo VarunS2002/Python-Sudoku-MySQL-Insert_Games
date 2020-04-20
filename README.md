@@ -1,4 +1,4 @@
-# Python-Sudoku-MySQL-InsertGames
+# Python-Sudoku-MySQL-Insert_Games
 
 [Downloads](https://github.com/VarunS2002/Python-Sudoku-MySQL-InsertGames/releases)
 
