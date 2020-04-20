@@ -27,3 +27,10 @@ testpass<br />
 -localhost, root and testpass are the custom values for host, username and password respectively
 
 -If any of these lines are left empty the program will use the default values for the particular field
+
+Note:
+
+-No code changes have to be made in the sudoku program after adding new games 
+
+-Adding incorrect values, rows or columns in the database may cause the program to not function correctly and result in errors 
+
