@@ -52,11 +52,11 @@ class Box:
             pass
 
     def releases(self):
-        webbrowser.open_new("https://github.com/VarunS2002/Python-Sudoku-MySQL-InsertGames/releases/")
+        webbrowser.open_new("https://github.com/VarunS2002/Python-Sudoku-MySQL-Insert_Games/releases/")
         self.info.attributes('-topmost', False)
 
     def sources(self):
-        webbrowser.open_new("https://github.com/VarunS2002/Python-Sudoku-MySQL-InsertGames/")
+        webbrowser.open_new("https://github.com/VarunS2002/Python-Sudoku-MySQL-Insert_Games/")
         self.info.attributes('-topmost', False)
 
     def about_window(self):
