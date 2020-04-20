@@ -1,13 +1,13 @@
 # Python-Sudoku-MySQL-Insert_Games
 
-[Downloads](https://github.com/VarunS2002/Python-Sudoku-MySQL-InsertGames/releases)
+### [Downloads](https://github.com/VarunS2002/Python-Sudoku-MySQL-InsertGames/releases)
 
 This is a tool to insert new games in the database for the Python-Sudoku-MySQL program
 
 Python-Sudoku-MySQL program:
 [Downloads](https://github.com/VarunS2002/Python-Sudoku-MySQL/releases)
 
-Usage:
+## Usage:
 
 -Default values of host, username and password for connecting to MySQL are localhost, root and *no password* respectively
 
@@ -28,7 +28,7 @@ testpass<br />
 
 -If any of these lines are left empty the program will use the default values for the particular field
 
-Note:
+### Note:
 
 -No code changes have to be made in the sudoku program after adding new games 
 
