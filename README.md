@@ -7,7 +7,7 @@ This is a tool to insert new games in the database for the Python-Sudoku-MySQL p
 Python-Sudoku-MySQL program:
 [Downloads](https://github.com/VarunS2002/Python-Sudoku-MySQL/releases)
 
-## Usage:
+### Usage:
 
 -Default values of host, username and password for connecting to MySQL are localhost, root and *no password* respectively
 
