@@ -1,0 +1,9 @@
+# Enter your values on the next line of the semicolon #
+# Do not change anything else in this file #
+host:
+
+username:
+
+password:
+
+---END-OF-FILE---
