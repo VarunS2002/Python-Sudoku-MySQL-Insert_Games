@@ -34,3 +34,22 @@ testpass<br />
 
 -Adding incorrect values, rows or columns in the database may cause the program to not function correctly and result in errors 
 
+### Features:
+
+-Sudoku like grid for ease of entering values
+
+-Insert games into start table
+
+-Insert games into solved table
+
+-Option to commit values at the end
+
+-Validation for values entered
+
+-Only int from 0-9 allowed in start and int from 1-9 allowed in solved
+
+-About option with version, link for releases and for sources
+
+-PEP 8 format
+
+-Object Oriented
